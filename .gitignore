@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+models/*.task
+results/
+*.log
+# datasets are large and have their own licences - keep them out of the repo
+data/
